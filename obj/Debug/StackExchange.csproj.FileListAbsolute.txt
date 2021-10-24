@@ -1,0 +1,7 @@
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\bin\Debug\StackExchange.exe.config
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\bin\Debug\StackExchange.exe
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\bin\Debug\StackExchange.pdb
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\obj\Debug\StackExchange.csproj.AssemblyReference.cache
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\obj\Debug\StackExchange.csproj.CoreCompileInputs.cache
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\obj\Debug\StackExchange.exe
+C:\Users\AndyJ\Documents\GitHub\GitKraken\Junk\StackExchange\obj\Debug\StackExchange.pdb
